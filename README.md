@@ -4,3 +4,6 @@ Project overview: The Disease Symptoms and Patients Profile Analysis using MSSQL
 
 Objectives: 1. To retrieve comprehensive healthcare data from MSSQL using various SQL statements
 2. Develop a Power BI dashboard that visually represents the analyzed data, allowing users to explore and gain insights into disease-symptom relationships and patient profiles.
+
+
+link to dataset: https://www.kaggle.com/datasets/uom190346a/disease-symptoms-and-patient-profile-dataset
